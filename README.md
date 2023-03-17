@@ -2,6 +2,8 @@
 
 A plugin for syntax highlighting of the [Kappa language](https://kappalanguage.org) for [Notepad++](https://notepad-plus-plus.org)
 
+![Screenshot of a simple model, written in Kappa, with the syntax highlighting provided here](Sample.png)
+
 
 ## Installation
 
